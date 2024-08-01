@@ -1,2 +1,2 @@
 # IS
-Insightful Search v3 (vue)
+Insightful Search v3 (star.js)
